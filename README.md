@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naeem41
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web developement,app developement and machine learning
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me mia1707041@stud.kuet.ac.bd
